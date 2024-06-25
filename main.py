@@ -12,8 +12,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(mess
 
 # Outlook IMAP settings
 IMAP_SERVER = 'outlook.office365.com'
-EMAIL = 'tomascdmota@outlook.com'
-PASSWORD = 'Tcdm.2021'
+EMAIL = 'email@outlook.com'
+PASSWORD = 'password'
 IMAP_FOLDER = 'INBOX'
 
 # Function to fetch and print PDF attachments
